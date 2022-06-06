@@ -32,6 +32,8 @@ void getinfo(emp &temp) // pass by reference
 }
 int main()
 {
+
+	// feature 1 , 2 added by alana
 	emp emp1,emp2;
 	 getinfo(emp1);	
 	getinfo(emp2);
